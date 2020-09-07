@@ -30,3 +30,15 @@ h1{
 .nav-link{
   font-size:1.1rem;
 }
+
+/* Download Buttons */
+.download-btn{
+  margin: 5% 3% 5% 0;
+  font-size: 1rem;
+}
+
+/* Title Image */
+.title-img {
+  width: 50%;
+  transform: rotate(25deg);
+}
