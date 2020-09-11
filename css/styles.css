@@ -14,6 +14,12 @@ h1{
   line-height: 1.5;
   font-weight: 800;
 }
+h2{
+  font-family: 'Montserrat-bold',sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
 h3{
   font-family: 'Montserrat-bold', sans-serif;
   font-weight: bold;
@@ -65,4 +71,23 @@ p{
 }
 .icon:hover{
   color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  padding: 20px;
+}
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
 }
