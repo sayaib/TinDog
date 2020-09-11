@@ -121,3 +121,27 @@ background-color: #fff;
     transform: rotate(0);
   }
 }
+
+/* Call to Action Section */
+
+#cta{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+  font-family: 'Montserrat Black',sans-serif;
+  color: #fff;
+  font-size: 3.5rem;
+}
+
+/* Footer Section */
+
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
+.social-icon{
+padding: 3% 2%
+}
+.cpy{
+  font-size: 0.6rem;
+}
