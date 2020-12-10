@@ -13,3 +13,8 @@ img{
   padding: 10px;
 
 }
+#gallary{
+  border: 2px solid;
+  margin: 15px;
+  border-radius: 10px;
+}
