@@ -8,6 +8,10 @@ html{
   background-color: #ff4c68;
   color: #fff;
 }
+#contact{
+margin: 0 auto;
+width: 10%;
+}
 .container-fluid{
 padding: 3% 15%;
 }
