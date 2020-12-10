@@ -1,6 +1,9 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 #title {
   background-color: #ff4c68;
   color: #fff;
